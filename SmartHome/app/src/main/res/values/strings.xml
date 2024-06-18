@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Smart Home</string>
+    <string name="title_home">主控</string>
+    <string name="title_dashboard">语音</string>
+    <string name="IPaddress">192.168.137.215</string>
+    <string name="connectdev">连接\n</string>
+    <string name="temperature">温度</string>
+    <string name="humidity">湿度</string>
+    <string name="light1">卧室灯</string>
+    <string name="light2">客厅灯</string>
+    <string name="light3">厨房灯</string>
+    <string name="door">开门</string>
+    <string name="curtain">窗帘开/关</string>
+    <string name="dashtext">请等待</string>
+    <string name="porthint">8000</string>
+    <string name="WaitingRegrade">--</string>
+    <string name="weather">天气</string>
+</resources>
