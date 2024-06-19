@@ -69,7 +69,7 @@ class Device:
                 continue
 
     def getWeather(self):
-        url = 'https://restapi.amap.com/v3/weather/weatherInfo?city=420111&key=4dc30edc57be23a5624e03c8d6213c3f'
+        url = 'https://restapi.amap.com/v3/weather/weatherInfo?city=******&key=***'
         res = requests.get(url)
         data = res.json()['lives'][0]
         return data['weather'], data['temperature']
